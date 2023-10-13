@@ -16,3 +16,6 @@ There's already a [ARkit VRoid Blendshape Project](https://github.com/hinzka/52b
 
 # Model Guide
 1. [Eye Wiggle Guide (for VNyan)](joemama)
+
+# Where can I contact the creator of this project?
+You can find all my contact info on [my Website](https://cappyadams.github.io/aboutme.html#contact)
