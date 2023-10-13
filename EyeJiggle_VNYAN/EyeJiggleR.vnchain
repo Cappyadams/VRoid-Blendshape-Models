@@ -1,0 +1,25 @@
+{
+    "bones": 4,
+    "name": "EyeJigR",
+    "inputs": [
+        {
+            "isBlendshape": true,
+            "valueName": "EyeBlinkRight",
+            "multiplier": 1.0,
+            "isRotation": false
+        }
+    ],
+    "outputs": [
+        {
+            "bone": 3,
+            "blendshape": "EyeJig1R",
+            "negative": "EyeJig2R",
+            "param": "",
+            "multiplier": 0.6000000238418579
+        }
+    ],
+    "damping": 0.10000000149011612,
+    "elasticity": 0.10000000149011612,
+    "stiffness": 0.10000000149011612,
+    "inert": 0.0
+}
