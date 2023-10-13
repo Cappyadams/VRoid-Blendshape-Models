@@ -1,4 +1,4 @@
 # VRoid-Blendshape-Models
 The perfect models for BlendShape copying.
 
-![](eyejiggle.gif)
+![eyejiggle](eyejiggle.gif?raw=true "EyeJiggle")
