@@ -18,4 +18,4 @@ There's already a [ARkit VRoid Blendshape Project](https://github.com/hinzka/52b
 1. [Eye Wiggle Guide (for VNyan)](joemama)
 
 # Where can I contact the creator of this project?
-You can find all my contact info on [my Website](https://cappyadams.github.io/aboutme.html#contact)
+You can find all my contact info on [my Website](https://cappyadams.github.io/aboutme.html#contact). however I'm most active on [Twitter](https://twitter.com/YuriMayori) and [DeviantArt](https://www.deviantart.com/cappyadams). so i'd prefer if ya contacted me one Github, Twitter or DA
