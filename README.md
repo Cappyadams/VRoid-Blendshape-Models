@@ -2,6 +2,7 @@
 The perfect models for BlendShape copying.
 
 ![eyejiggle](eyejiggle_resize.gif?raw=true "EyeJiggle")
+![arkit](arkit.gif?raw=true "ARKit")
 
 ## What is this?
 this is a github repository. jk jk, This is where you can find models for copying blendshapes to your VRoid models! You can use these models as refernce or you can copy blendshapes from these models over to your models. That's your choice!
